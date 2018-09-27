@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B7229707215D4DA0004CE8A1 /* P1000323.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B7229706215D4DA0004CE8A1 /* P1000323.jpeg */; };
+		B7229709215D5150004CE8A1 /* welcome.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7229708215D5150004CE8A1 /* welcome.swift */; };
 		B77D5CC1215D130D00D0F49B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77D5CC0215D130D00D0F49B /* AppDelegate.swift */; };
 		B77D5CC3215D130D00D0F49B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77D5CC2215D130D00D0F49B /* ViewController.swift */; };
 		B77D5CC6215D130D00D0F49B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B77D5CC4215D130D00D0F49B /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B7229706215D4DA0004CE8A1 /* P1000323.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = P1000323.jpeg; path = ../../../../P1000323.jpeg; sourceTree = "<group>"; };
+		B7229708215D5150004CE8A1 /* welcome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = welcome.swift; sourceTree = "<group>"; };
 		B77D5CBD215D130D00D0F49B /* Portfolio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Portfolio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B77D5CC0215D130D00D0F49B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B77D5CC2215D130D00D0F49B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,9 +61,11 @@
 				B77D5CC0215D130D00D0F49B /* AppDelegate.swift */,
 				B77D5CC2215D130D00D0F49B /* ViewController.swift */,
 				B77D5CC4215D130D00D0F49B /* Main.storyboard */,
+				B7229706215D4DA0004CE8A1 /* P1000323.jpeg */,
 				B77D5CC7215D130E00D0F49B /* Assets.xcassets */,
 				B77D5CC9215D130E00D0F49B /* LaunchScreen.storyboard */,
 				B77D5CCC215D130E00D0F49B /* Info.plist */,
+				B7229708215D5150004CE8A1 /* welcome.swift */,
 			);
 			path = Portfolio;
 			sourceTree = "<group>";
@@ -124,6 +130,7 @@
 			files = (
 				B77D5CCB215D130E00D0F49B /* LaunchScreen.storyboard in Resources */,
 				B77D5CC8215D130E00D0F49B /* Assets.xcassets in Resources */,
+				B7229707215D4DA0004CE8A1 /* P1000323.jpeg in Resources */,
 				B77D5CC6215D130D00D0F49B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,6 +144,7 @@
 			files = (
 				B77D5CC3215D130D00D0F49B /* ViewController.swift in Sources */,
 				B77D5CC1215D130D00D0F49B /* AppDelegate.swift in Sources */,
+				B7229709215D5150004CE8A1 /* welcome.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
